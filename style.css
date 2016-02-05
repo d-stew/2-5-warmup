@@ -50,25 +50,31 @@ details {
   bottom: 0%;
 }
 
-#box9 {
+#box1 {
   background-color: rgb(5, 212, 162);
   float: right;
   height: 200px;
   width: 200px;
 }
 
-#box10 {
+#box2 {
   background-color: rgb(158, 255, 82);
   float: right;
   height: 150px;
   width: 150px;
 }
 
-#box11 {
+#box3 {
   background-color: rgb(109, 185, 93);
   float: right;
   height: 100px;
   width: 100px;
+}
+
+table {
+  position: relative;
+  background-color: green;
+  color: green;
 }
 
 footer {
@@ -78,6 +84,7 @@ footer {
   top: 50%;
   height: 300px;
   width: 300px;
+  border-radius: 8px;
 }
 
 section {
